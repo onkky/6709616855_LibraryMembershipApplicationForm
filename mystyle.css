@@ -45,7 +45,6 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     outline: none;
-    transition: border-color 0.3s ease;
   }
   
   input[type="submit"] {
